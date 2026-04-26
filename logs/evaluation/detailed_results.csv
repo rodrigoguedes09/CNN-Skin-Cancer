@@ -1,0 +1,11 @@
+Metric,Value,Category
+accuracy,0.7309270766788625,Basic Metrics
+f1,0.5786516853932584,Basic Metrics
+kappa,0.5086803797299675,Basic Metrics
+mcc,0.5145545818981251,Basic Metrics
+sensitivity,0.5124378109452736,Per Class Metrics
+specificity,0.9494163424124513,Per Class Metrics
+ppv,0.6645161290322581,Per Class Metrics
+npv,0.9087523277467412,Per Class Metrics
+diagnostic_odds_ratio,19.72684458398744,Per Class Metrics
+AUC-ROC,0.8715469345877614,ROC Analysis
